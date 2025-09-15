@@ -23,7 +23,7 @@ npm install
 npm run install-all
 Environment Setup
 
-# Create .env file in root of backend folder
+# Create .env file in root of backend directory
 
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/pdf-annotator
@@ -33,7 +33,8 @@ Create .env file in root of frontend directory
 
 # Create .env file in root of Frontend directory
 REACT_APP_API_URL=http://localhost:5000/api
-Running the Application
+
+# Running the Application
 
 # Make sure MongoDB is running
 
