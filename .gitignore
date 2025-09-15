@@ -1,0 +1,12 @@
+node_modules/
+/.pnp
+.pnp.js
+/build
+/dist
+
+.env
+.env.local
+.env.example
+*.env
+
+npm-debug.log*
