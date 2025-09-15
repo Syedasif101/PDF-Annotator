@@ -1,8 +1,6 @@
 # PDF-Annotator
 
-# PDF Annotator Full Stack Application
-
-## Prerequisites
+# PDF Annotator Full Stack Web App
 
 Before running this application, make sure you have:
 
@@ -37,19 +35,10 @@ Create .env file in root of frontend folder
 text
 REACT_APP_API_URL=http://localhost:5000/api
 Running the Application
+
 Make sure MongoDB is running
 
-bash
-# For Windows
-mongod
-
-# For Mac/Linux
-sudo mongod
-Run both frontend and backend
 
 bash
 npm run dev
-The application will be available at:
 
-Frontend: http://localhost:3000
-Backend API: http://localhost:5000
