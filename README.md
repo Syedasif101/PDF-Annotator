@@ -1,4 +1,3 @@
-# PDF-Annotator
 
 # PDF Annotator Full Stack Web App
 
